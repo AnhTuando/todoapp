@@ -1,0 +1,17 @@
+.button {
+  border: 0;
+  border-radius: 0;
+  font-size: 16px;
+  margin: 0;
+}
+.button--primary {
+  background-color: rgba(0, 61, 131, 0.9);
+  color: #ffffff;
+}
+.button--danger {
+  background-color: rgba(255, 33, 62, 0.9);
+  color: #ffffff;
+}
+.input-todo {
+  flex: 1;
+}

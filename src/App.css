@@ -1,0 +1,7 @@
+#root {
+  height: 100vh;
+  width: 100vw;
+  padding: 2rem;
+  text-align: center;
+  background: linear-gradient(45deg, #c85278, #2a99d9);
+}
